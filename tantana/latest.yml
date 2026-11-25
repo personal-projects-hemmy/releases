@@ -1,15 +1,15 @@
-version: 1.0.8
-versionCode: 9
+version: 1.0.9
+versionCode: 10
 files:
-  - url: tantana-1.0.8.apk
-    sha512: hasGtkbYZhNXmNsu0PAmlHokT/WyVBHJItJEyfEw/XZZn/5T8X7NwsaRzPeKmUDwarlEetJju/4/0ypARcvzSg==
-    size: 42922395
-path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.8/tantana-1.0.8.apk
-url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.8/tantana-1.0.8.apk
-sha512: hasGtkbYZhNXmNsu0PAmlHokT/WyVBHJItJEyfEw/XZZn/5T8X7NwsaRzPeKmUDwarlEetJju/4/0ypARcvzSg==
-sha256: 195674d12c63c2d9293dccbd4c4fe39b4a2566134f792bac163c3f8a3d2e2712
-md5: f050002d76e5f8376cb72c9fb8e522ce
-size: 42922395
-releaseDate: '2026-11-25T15:31:27.000Z'
-notes: "A swipe or the Android back gesture closes only the side menu or a sheet, not the app. After you confirm your email or sign in, Back from Account returns to Home, not Create account."
-notesFr: "Un glissement ou le geste Retour d'Android ne ferme que le menu ou une feuille, pas l'application. Apr\u00e8s confirmation de l'e-mail ou connexion, Retour depuis Compte ram\u00e8ne \u00e0 l'accueil, pas \u00e0 Cr\u00e9er un compte."
+  - url: tantana-1.0.9.apk
+    sha512: V+2g7tOWfH/uulIAM8lifhkW3rZjABEz5wPENYMr7FJT/MRK9518LojRHI3qPExWwHVnc0yIJIzEh/pIouFqEA==
+    size: 42934683
+path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.9/tantana-1.0.9.apk
+url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.9/tantana-1.0.9.apk
+sha512: V+2g7tOWfH/uulIAM8lifhkW3rZjABEz5wPENYMr7FJT/MRK9518LojRHI3qPExWwHVnc0yIJIzEh/pIouFqEA==
+sha256: 4f150b8ba6675d053ae75c8461f56e82d92fd59efdfffd05db64537222e6946f
+md5: 3189c6a093b4c4ce741f92e1a04c4ed6
+size: 42934683
+releaseDate: '2026-11-25T16:05:31.000Z'
+notes: "Fixes the signed-in drawer header (name and email no longer clipped). A gear opens General settings for Account / Sync, language, theme, fingerprint lock, and Check for a new APK. Sign out is at the bottom of the menu when you are signed in; local data stays on the phone. The Android back gesture now closes only the side menu, not the app. After you confirm your email, a successful sign-in no longer shows a generic error; first sync after switching accounts no longer reuses the previous account's cloud row IDs. If a confirmation email cannot be sent, the app now says so clearly."
+notesFr: "L'en-tête du menu affiche le nom et l'e-mail sans les couper. L'icône d'engrenage ouvre Paramètres généraux (Compte / Sync, langue, thème, verrouillage par empreinte et Vérifier un nouvel APK). « Se déconnecter » est en bas du menu lorsque vous êtes connecté ; les données restent sur le téléphone. Le geste Retour ferme uniquement le menu latéral, pas l'application. Après confirmation de l'e-mail, une connexion réussie n'affiche plus une erreur générique ; la première sync après un changement de compte ne réutilise plus les identifiants cloud de l'ancien compte. Si l'e-mail de confirmation ne peut pas être envoyé, l'application l'indique clairement."
