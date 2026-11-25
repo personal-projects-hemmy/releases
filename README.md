@@ -11,6 +11,7 @@ Each app has its own folder with its update feed and notes.
 | App | Folder | Platform | Description |
 | --- | --- | --- | --- |
 | **Focus** (Pomodoro) | [`pomodoro/`](pomodoro) | Windows | A Pomodoro timer with projects, tasks and focus stats. |
+| **Tantana** | [`tantana/`](tantana) | Android | A personal money app in ariary, in English and French. |
 
 ## How to install
 
@@ -23,7 +24,7 @@ Each app has its own folder with its update feed and notes.
 ```
 <app>/
   README.md     notes and changelog for the app
-  latest.yml    update feed read by the app (Windows)
+  latest.yml    update feed read by the app
 ```
 
 Installers are attached to GitHub Releases (tag `<app>-v<version>`), not committed to the repo, because Git blocks files over 100 MB.
