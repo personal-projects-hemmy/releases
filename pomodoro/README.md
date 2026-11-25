@@ -8,7 +8,7 @@ Get the latest installer from the [Releases](../../../releases) page: look for t
 
 ## In-app updates
 
-The app checks this folder for `latest.yml` a few seconds after it opens, and from the **Updates** icon at the bottom of the sidebar (available from 1.1.0).
+The app checks this folder for `latest.yml` a few seconds after it opens, and from **Settings > Updates** (gear icon at the bottom of the sidebar; 1.1.0 used a separate Updates icon).
 
 - Update feed URL (electron-builder `generic` provider):
   `https://raw.githubusercontent.com/personal-projects-hemmy/releases/main/pomodoro`
@@ -23,6 +23,7 @@ The app checks this folder for `latest.yml` a few seconds after it opens, and fr
 
 ## Changelog
 
+- **1.1.1** - New Settings (gear icon in the sidebar) with Display mode: Auto (follows Windows), Light or Dark. Updates moved into Settings, with a red dot on the gear when an update is waiting.
 - **1.1.0** - Check for updates inside the app (Updates icon in the sidebar). From this version on, updates download and install from the app. Users on 1.0.0 need to install 1.1.0 manually once.
 - **1.0.0** - first version.
 

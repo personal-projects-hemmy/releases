@@ -1,10 +1,11 @@
-version: 1.1.0
+version: 1.1.1
 files:
-  - url: https://github.com/personal-projects-hemmy/releases/releases/download/pomodoro-v1.1.0/pomodoro-1.1.0-setup.exe
-    sha512: pppqOd8Rjl7KOpPw3M8MK6x+fZxskAVTXY4U29owu8wEfXNsbLE305X5eqMMwli+ZH8u5wc5+8mqepeN4vjkdw==
-    size: 117723742
-path: https://github.com/personal-projects-hemmy/releases/releases/download/pomodoro-v1.1.0/pomodoro-1.1.0-setup.exe
-sha512: pppqOd8Rjl7KOpPw3M8MK6x+fZxskAVTXY4U29owu8wEfXNsbLE305X5eqMMwli+ZH8u5wc5+8mqepeN4vjkdw==
-releaseDate: '2026-11-25T14:11:06.021Z'
+  - url: https://github.com/personal-projects-hemmy/releases/releases/download/pomodoro-v1.1.1/pomodoro-1.1.1-setup.exe
+    sha512: j3WrC1Io4cVA9Cw7jxQk9WcHEBSaAIRWEpBcwni2zxLvitOuC4Je9Pjl1Go5PpdbFLYQCgXFSSdKjA7YGLu7Vw==
+    size: 117724452
+path: https://github.com/personal-projects-hemmy/releases/releases/download/pomodoro-v1.1.1/pomodoro-1.1.1-setup.exe
+sha512: j3WrC1Io4cVA9Cw7jxQk9WcHEBSaAIRWEpBcwni2zxLvitOuC4Je9Pjl1Go5PpdbFLYQCgXFSSdKjA7YGLu7Vw==
+releaseDate: '2026-11-25T14:37:19.480Z'
 releaseNotes: |
-  New: Check for updates inside the app. From this version on, updates install from the app.
+  New: Settings with Display mode (Auto, Light or Dark).
+  Updates moved into Settings (gear icon in the sidebar).
