@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: https://github.com/personal-projects-hemmy/releases/releases/download/pomodoro-v1.0.0/pomodoro-1.0.0-setup.exe
+    sha512: A3VOFBQJLF40Nw38XOD3Nqe/Hc7X4opyWN0ZkfaddhpB0FmuUWZuCgEpMKVBYiwvcR5eKazQEKfDeiaTmkLoZA==
+    size: 117812976
+path: https://github.com/personal-projects-hemmy/releases/releases/download/pomodoro-v1.0.0/pomodoro-1.0.0-setup.exe
+sha512: A3VOFBQJLF40Nw38XOD3Nqe/Hc7X4opyWN0ZkfaddhpB0FmuUWZuCgEpMKVBYiwvcR5eKazQEKfDeiaTmkLoZA==
+releaseDate: '2026-11-25T13:31:34.191Z'
