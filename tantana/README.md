@@ -27,6 +27,7 @@ The app checks this folder for `latest.yml` a moment after it opens, and from **
 
 ## Changelog
 
+- **1.0.6** (build 7) - dark mode with a System / Light / Dark setting synced across devices.
 - **1.0.5** (build 6) - fingerprint lock, email sign in / register / forgot password, delete account, already-registered email check, and in-app updates from this page. First build made outside EAS.
 
 ## License

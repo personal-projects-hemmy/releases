@@ -1,15 +1,15 @@
-version: 1.0.5
-versionCode: 6
+version: 1.0.6
+versionCode: 7
 files:
-  - url: tantana-1.0.5.apk
-    sha512: M+XHbGLe9na26Uw/cof+48wMxpz/LlhcJ+R8MIMtXMdzLCYhE8YGWjC+DwDY2poae1ZdtX+QGLTU0FmICoxrKw==
-    size: 42749859
-path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.5/tantana-1.0.5.apk
-url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.5/tantana-1.0.5.apk
-sha512: M+XHbGLe9na26Uw/cof+48wMxpz/LlhcJ+R8MIMtXMdzLCYhE8YGWjC+DwDY2poae1ZdtX+QGLTU0FmICoxrKw==
-sha256: 7e0db13c4c9e9037d7929a3add6c201782138678ed5762430f3cb9246ee8b022
-md5: 20c8216dce2e20fc70863ee914ae7098
-size: 42749859
-releaseDate: '2026-11-25T13:15:00.000Z'
-notes: 'Fingerprint lock, email sign in / register / forgot password, delete account, and in-app updates from this releases page.'
-notesFr: 'Verrouillage par empreinte, connexion / inscription / mot de passe oublié par e-mail, suppression du compte, et mises à jour intégrées depuis cette page.'
+  - url: tantana-1.0.6.apk
+    sha512: Oj7IXpwfapQ+P7d9zV2/KqiVEQUjZ+U2qXUgHVmjshBOCWqANGwP92B0jk91ixOlIOAOfx0vSAYecRrnpGuChg==
+    size: 42770339
+path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.6/tantana-1.0.6.apk
+url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.6/tantana-1.0.6.apk
+sha512: Oj7IXpwfapQ+P7d9zV2/KqiVEQUjZ+U2qXUgHVmjshBOCWqANGwP92B0jk91ixOlIOAOfx0vSAYecRrnpGuChg==
+sha256: 0ca4f1161ecc96b5cc366a623b1a8934b69dc593ac971e4f6dda221765e81203
+md5: c59eeea3e762239bac7fd9e136d75b9a
+size: 42770339
+releaseDate: '2026-11-25T14:18:51.000Z'
+notes: "Dark mode with a System / Light / Dark setting (synced across devices)."
+notesFr: "Mode sombre avec choix Syst\u00e8me / Clair / Sombre (synchronis\u00e9 entre vos appareils)."
