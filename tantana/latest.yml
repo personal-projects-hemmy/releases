@@ -1,15 +1,15 @@
-version: 1.0.6
-versionCode: 7
+version: 1.0.7
+versionCode: 8
 files:
-  - url: tantana-1.0.6.apk
-    sha512: Oj7IXpwfapQ+P7d9zV2/KqiVEQUjZ+U2qXUgHVmjshBOCWqANGwP92B0jk91ixOlIOAOfx0vSAYecRrnpGuChg==
-    size: 42770339
-path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.6/tantana-1.0.6.apk
-url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.6/tantana-1.0.6.apk
-sha512: Oj7IXpwfapQ+P7d9zV2/KqiVEQUjZ+U2qXUgHVmjshBOCWqANGwP92B0jk91ixOlIOAOfx0vSAYecRrnpGuChg==
-sha256: 0ca4f1161ecc96b5cc366a623b1a8934b69dc593ac971e4f6dda221765e81203
-md5: c59eeea3e762239bac7fd9e136d75b9a
-size: 42770339
-releaseDate: '2026-11-25T14:18:51.000Z'
-notes: "Dark mode with a System / Light / Dark setting (synced across devices)."
-notesFr: "Mode sombre avec choix Syst\u00e8me / Clair / Sombre (synchronis\u00e9 entre vos appareils)."
+  - url: tantana-1.0.7.apk
+    sha512: +muetv2ZOQ+Qq2qjK85VXzI+JBJH5rCJhp7AujIcKd7nv07egkbP8W5UNYnxDfpUXWSpYVPCBP+CZdS9axq0eg==
+    size: 42922395
+path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.7/tantana-1.0.7.apk
+url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.7/tantana-1.0.7.apk
+sha512: +muetv2ZOQ+Qq2qjK85VXzI+JBJH5rCJhp7AujIcKd7nv07egkbP8W5UNYnxDfpUXWSpYVPCBP+CZdS9axq0eg==
+sha256: 898539904dd49bebf86f6bf5fbc41a1a43b5d2808c751d10ac2d0ba2e0b089dd
+md5: f1af1a6ebbac8eab57db1e59aaf2a6d5
+size: 42922395
+releaseDate: '2026-11-25T14:55:48.000Z'
+notes: "Later and Skip cancel an in-progress APK download. The menu only has Check for a new APK and closes with a left swipe. When signed in, home greets you by name and you can set a profile photo. The fingerprint lock prompts automatically on open and resume; there is no Unlock button \u2014 tap the screen to try again after a cancel."
+notesFr: "Plus tard et Ignorer cette version annulent un t\u00e9l\u00e9chargement en cours. Le menu ne propose plus que Rechercher un nouvel APK et se ferme d'un glissement vers la gauche. Une fois connect\u00e9, l'accueil vous salue par votre nom et vous pouvez d\u00e9finir une photo de profil. Le verrouillage par empreinte s'affiche automatiquement \u00e0 l'ouverture et au retour ; le bouton D\u00e9verrouiller a disparu \u2014 touchez l'\u00e9cran pour r\u00e9essayer apr\u00e8s une annulation."

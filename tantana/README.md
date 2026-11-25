@@ -27,6 +27,7 @@ The app checks this folder for `latest.yml` a moment after it opens, and from **
 
 ## Changelog
 
+- **1.0.7** (build 8) - Later and Skip cancel an in-progress APK download; the menu only has Check for a new APK and closes with a left swipe; when signed in, the home header greets you by name and you can set a profile photo; the fingerprint lock prompts automatically on open and resume, with no Unlock button (tap the screen to try again after a cancel).
 - **1.0.6** (build 7) - dark mode with a System / Light / Dark setting synced across devices.
 - **1.0.5** (build 6) - fingerprint lock, email sign in / register / forgot password, delete account, already-registered email check, and in-app updates from this page. First build made outside EAS.
 
