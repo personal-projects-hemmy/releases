@@ -2,14 +2,14 @@ version: 1.0.8
 versionCode: 9
 files:
   - url: tantana-1.0.8.apk
-    sha512: 9RTG1ouwOZhHDy02buVq0DD1131EbI3gBP0uF4mHOoGPXDxkEKEwyI497QB55XfqafIySvxeUE8wTcsQ/EngyQ==
+    sha512: hasGtkbYZhNXmNsu0PAmlHokT/WyVBHJItJEyfEw/XZZn/5T8X7NwsaRzPeKmUDwarlEetJju/4/0ypARcvzSg==
     size: 42922395
 path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.8/tantana-1.0.8.apk
 url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.8/tantana-1.0.8.apk
-sha512: 9RTG1ouwOZhHDy02buVq0DD1131EbI3gBP0uF4mHOoGPXDxkEKEwyI497QB55XfqafIySvxeUE8wTcsQ/EngyQ==
-sha256: a267cc22d7c4039dcc9d4eb2a3fc55861da0889864cd79b2e14e8e30dd7ec4ad
-md5: 35b1b195f3b300deee5c007e93452e72
+sha512: hasGtkbYZhNXmNsu0PAmlHokT/WyVBHJItJEyfEw/XZZn/5T8X7NwsaRzPeKmUDwarlEetJju/4/0ypARcvzSg==
+sha256: 195674d12c63c2d9293dccbd4c4fe39b4a2566134f792bac163c3f8a3d2e2712
+md5: f050002d76e5f8376cb72c9fb8e522ce
 size: 42922395
-releaseDate: '2026-11-25T15:23:27.000Z'
-notes: "A swipe to close the side menu, or the Android back gesture, now closes only the menu or sheet \u2014 not the app. Home with nothing open is unchanged."
-notesFr: "Un glissement pour fermer le menu, ou le geste Retour d'Android, ne ferme plus que le menu ou la feuille \u2014 pas l'application. L'accueil sans menu ouvert se comporte comme avant."
+releaseDate: '2026-11-25T15:31:27.000Z'
+notes: "A swipe or the Android back gesture closes only the side menu or a sheet, not the app. After you confirm your email or sign in, Back from Account returns to Home, not Create account."
+notesFr: "Un glissement ou le geste Retour d'Android ne ferme que le menu ou une feuille, pas l'application. Apr\u00e8s confirmation de l'e-mail ou connexion, Retour depuis Compte ram\u00e8ne \u00e0 l'accueil, pas \u00e0 Cr\u00e9er un compte."
