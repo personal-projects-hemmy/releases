@@ -8,7 +8,7 @@ Get the latest installer from the [Releases](../../../releases) page: look for t
 
 ## In-app updates
 
-The app checks this folder for `latest.yml` on startup and from **Settings > Check for updates**.
+The app checks this folder for `latest.yml` a few seconds after it opens, and from the **Updates** icon at the bottom of the sidebar (available from 1.1.0).
 
 - Update feed URL (electron-builder `generic` provider):
   `https://raw.githubusercontent.com/personal-projects-hemmy/releases/main/pomodoro`
@@ -23,6 +23,7 @@ The app checks this folder for `latest.yml` on startup and from **Settings > Che
 
 ## Changelog
 
+- **1.1.0** - Check for updates inside the app (Updates icon in the sidebar). From this version on, updates download and install from the app. Users on 1.0.0 need to install 1.1.0 manually once.
 - **1.0.0** - first version.
 
 ## License
