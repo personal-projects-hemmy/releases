@@ -1,15 +1,15 @@
-version: 1.0.7
-versionCode: 8
+version: 1.0.8
+versionCode: 9
 files:
-  - url: tantana-1.0.7.apk
-    sha512: +muetv2ZOQ+Qq2qjK85VXzI+JBJH5rCJhp7AujIcKd7nv07egkbP8W5UNYnxDfpUXWSpYVPCBP+CZdS9axq0eg==
+  - url: tantana-1.0.8.apk
+    sha512: 9RTG1ouwOZhHDy02buVq0DD1131EbI3gBP0uF4mHOoGPXDxkEKEwyI497QB55XfqafIySvxeUE8wTcsQ/EngyQ==
     size: 42922395
-path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.7/tantana-1.0.7.apk
-url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.7/tantana-1.0.7.apk
-sha512: +muetv2ZOQ+Qq2qjK85VXzI+JBJH5rCJhp7AujIcKd7nv07egkbP8W5UNYnxDfpUXWSpYVPCBP+CZdS9axq0eg==
-sha256: 898539904dd49bebf86f6bf5fbc41a1a43b5d2808c751d10ac2d0ba2e0b089dd
-md5: f1af1a6ebbac8eab57db1e59aaf2a6d5
+path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.8/tantana-1.0.8.apk
+url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.8/tantana-1.0.8.apk
+sha512: 9RTG1ouwOZhHDy02buVq0DD1131EbI3gBP0uF4mHOoGPXDxkEKEwyI497QB55XfqafIySvxeUE8wTcsQ/EngyQ==
+sha256: a267cc22d7c4039dcc9d4eb2a3fc55861da0889864cd79b2e14e8e30dd7ec4ad
+md5: 35b1b195f3b300deee5c007e93452e72
 size: 42922395
-releaseDate: '2026-11-25T14:55:48.000Z'
-notes: "Later and Skip cancel an in-progress APK download. The menu only has Check for a new APK and closes with a left swipe. When signed in, home greets you by name and you can set a profile photo. The fingerprint lock prompts automatically on open and resume; there is no Unlock button \u2014 tap the screen to try again after a cancel."
-notesFr: "Plus tard et Ignorer cette version annulent un t\u00e9l\u00e9chargement en cours. Le menu ne propose plus que Rechercher un nouvel APK et se ferme d'un glissement vers la gauche. Une fois connect\u00e9, l'accueil vous salue par votre nom et vous pouvez d\u00e9finir une photo de profil. Le verrouillage par empreinte s'affiche automatiquement \u00e0 l'ouverture et au retour ; le bouton D\u00e9verrouiller a disparu \u2014 touchez l'\u00e9cran pour r\u00e9essayer apr\u00e8s une annulation."
+releaseDate: '2026-11-25T15:23:27.000Z'
+notes: "A swipe to close the side menu, or the Android back gesture, now closes only the menu or sheet \u2014 not the app. Home with nothing open is unchanged."
+notesFr: "Un glissement pour fermer le menu, ou le geste Retour d'Android, ne ferme plus que le menu ou la feuille \u2014 pas l'application. L'accueil sans menu ouvert se comporte comme avant."
