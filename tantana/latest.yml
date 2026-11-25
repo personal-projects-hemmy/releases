@@ -1,15 +1,15 @@
-version: 1.0.9
-versionCode: 10
+version: 1.1.0
+versionCode: 11
 files:
-  - url: tantana-1.0.9.apk
-    sha512: V+2g7tOWfH/uulIAM8lifhkW3rZjABEz5wPENYMr7FJT/MRK9518LojRHI3qPExWwHVnc0yIJIzEh/pIouFqEA==
-    size: 42934683
-path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.9/tantana-1.0.9.apk
-url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.0.9/tantana-1.0.9.apk
-sha512: V+2g7tOWfH/uulIAM8lifhkW3rZjABEz5wPENYMr7FJT/MRK9518LojRHI3qPExWwHVnc0yIJIzEh/pIouFqEA==
-sha256: 4f150b8ba6675d053ae75c8461f56e82d92fd59efdfffd05db64537222e6946f
-md5: 3189c6a093b4c4ce741f92e1a04c4ed6
-size: 42934683
-releaseDate: '2026-11-25T16:05:31.000Z'
-notes: "Fixes the signed-in drawer header (name and email no longer clipped). A gear opens General settings for Account / Sync, language, theme, fingerprint lock, and Check for a new APK. Sign out is at the bottom of the menu when you are signed in; local data stays on the phone. The Android back gesture now closes only the side menu, not the app. After you confirm your email, a successful sign-in no longer shows a generic error; first sync after switching accounts no longer reuses the previous account's cloud row IDs. If a confirmation email cannot be sent, the app now says so clearly."
-notesFr: "L'en-tête du menu affiche le nom et l'e-mail sans les couper. L'icône d'engrenage ouvre Paramètres généraux (Compte / Sync, langue, thème, verrouillage par empreinte et Vérifier un nouvel APK). « Se déconnecter » est en bas du menu lorsque vous êtes connecté ; les données restent sur le téléphone. Le geste Retour ferme uniquement le menu latéral, pas l'application. Après confirmation de l'e-mail, une connexion réussie n'affiche plus une erreur générique ; la première sync après un changement de compte ne réutilise plus les identifiants cloud de l'ancien compte. Si l'e-mail de confirmation ne peut pas être envoyé, l'application l'indique clairement."
+  - url: tantana-1.1.0.apk
+    sha512: ZlN3/DhRyqev1E57EnzHdw5bE+qlednEvIxVk2JNekrPomx5ZESEAGOFrwsW7/bvkmQqBt9ijhfQYQtBywZl6Q==
+    size: 42951067
+path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.1.0/tantana-1.1.0.apk
+url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.1.0/tantana-1.1.0.apk
+sha512: ZlN3/DhRyqev1E57EnzHdw5bE+qlednEvIxVk2JNekrPomx5ZESEAGOFrwsW7/bvkmQqBt9ijhfQYQtBywZl6Q==
+sha256: ac8d28a8519d91a2658811ad56dc6c3d238178d320bd76be12f34ceb339673f2
+md5: 118e6dd498b43b3a9938372a0ad1420b
+size: 42951067
+releaseDate: '2026-11-25T18:15:13.000Z'
+notes: "Full-screen menu closed only with the back arrow; Edit profile opens a camera or gallery photo sheet; Check for update is a menu row; General settings has Account / Sync, a Theme dropdown, and Fingerprint lock. A paste no longer stretches the Create account fields, and auth emails follow the app language."
+notesFr: "Menu plein \u00e9cran ferm\u00e9 uniquement avec la fl\u00e8che retour ; Modifier le profil ouvre une feuille appareil photo ou galerie ; Rechercher une mise \u00e0 jour est une ligne du menu ; Param\u00e8tres g\u00e9n\u00e9raux contient Compte / Sync, un menu d\u00e9roulant pour le th\u00e8me et le verrouillage par empreinte. Un collage n'agrandit plus les champs de cr\u00e9ation de compte, et les e-mails d'authentification suivent la langue de l'app."

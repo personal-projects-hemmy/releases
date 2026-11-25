@@ -10,7 +10,7 @@ Android may ask you to allow installs from your browser (or from Tantana, for in
 
 ## In-app updates
 
-The app checks this folder for `latest.yml` a moment after it opens, and from **Menu > Check for a new APK**. It is skipped in Expo Go.
+The app checks this folder for `latest.yml` a moment after it opens, and from **Menu > Check for update**. It is skipped in Expo Go.
 
 - Update feed URL:
   `https://raw.githubusercontent.com/personal-projects-hemmy/releases/main/tantana`
@@ -27,6 +27,7 @@ The app checks this folder for `latest.yml` a moment after it opens, and from **
 
 ## Changelog
 
+- **1.1.0** (build 11) - full-screen menu closed only with the back arrow; Edit profile opens a camera/gallery photo sheet; Check for update is a menu row; General settings has Account / Sync, a Theme dropdown, and Fingerprint lock; a paste no longer stretches the Create account fields; auth emails follow the app language.
 - **1.0.9** (build 10) - signed-in drawer header shows name and email correctly; gear opens General settings (Account / Sync, language, theme, fingerprint, Check for a new APK); Sign out is at the bottom of the menu; Android back closes only the side menu; confirming email no longer shows a false error after a successful sign-in; a failed confirmation email is explained clearly.
 - **1.0.8** (build 9) - swiping to close the side menu (or using the system back gesture) closes only the menu, not the app; after confirming email or signing in, Back from Account returns to Home, not Create account.
 - **1.0.7** (build 8) - Later and Skip cancel an in-progress APK download; the menu only has Check for a new APK and closes with a left swipe; when signed in, the home header greets you by name and you can set a profile photo; the fingerprint lock prompts automatically on open and resume, with no Unlock button (tap the screen to try again after a cancel).
