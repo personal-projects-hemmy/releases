@@ -1,15 +1,15 @@
-version: 1.1.0
-versionCode: 11
+version: 1.1.1
+versionCode: 12
 files:
-  - url: tantana-1.1.0.apk
-    sha512: ZlN3/DhRyqev1E57EnzHdw5bE+qlednEvIxVk2JNekrPomx5ZESEAGOFrwsW7/bvkmQqBt9ijhfQYQtBywZl6Q==
-    size: 42951067
-path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.1.0/tantana-1.1.0.apk
-url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.1.0/tantana-1.1.0.apk
-sha512: ZlN3/DhRyqev1E57EnzHdw5bE+qlednEvIxVk2JNekrPomx5ZESEAGOFrwsW7/bvkmQqBt9ijhfQYQtBywZl6Q==
-sha256: ac8d28a8519d91a2658811ad56dc6c3d238178d320bd76be12f34ceb339673f2
-md5: 118e6dd498b43b3a9938372a0ad1420b
-size: 42951067
-releaseDate: '2026-11-25T18:15:13.000Z'
-notes: "Full-screen menu closed only with the back arrow; Edit profile opens a camera or gallery photo sheet; Check for update is a menu row; General settings has Account / Sync, a Theme dropdown, and Fingerprint lock. A paste no longer stretches the Create account fields, and auth emails follow the app language."
-notesFr: "Menu plein \u00e9cran ferm\u00e9 uniquement avec la fl\u00e8che retour ; Modifier le profil ouvre une feuille appareil photo ou galerie ; Rechercher une mise \u00e0 jour est une ligne du menu ; Param\u00e8tres g\u00e9n\u00e9raux contient Compte / Sync, un menu d\u00e9roulant pour le th\u00e8me et le verrouillage par empreinte. Un collage n'agrandit plus les champs de cr\u00e9ation de compte, et les e-mails d'authentification suivent la langue de l'app."
+  - url: tantana-1.1.1.apk
+    sha512: WlxT1m30syVvloxS9x9HeGux//o2rkqZmMy14TQpEsLOKc/IHPOXYSkRMAd0J6fDbL9KJxU3LL7bPvOy6iSR1A==
+    size: 45750787
+path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.1.1/tantana-1.1.1.apk
+url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.1.1/tantana-1.1.1.apk
+sha512: WlxT1m30syVvloxS9x9HeGux//o2rkqZmMy14TQpEsLOKc/IHPOXYSkRMAd0J6fDbL9KJxU3LL7bPvOy6iSR1A==
+sha256: 88faab626ebbd50b349df5ec29ac443c1c19c16efce93d59dbb75f4fe43ee485
+md5: bb4f40df0565bcc94f25a3f60f60bfc6
+size: 45750787
+releaseDate: '2026-11-26T06:39:33.000Z'
+notes: "The launch screen now plays the muted coin-and-hand video once, then fades into the app. Reduce Motion and playback errors still show a static first frame."
+notesFr: "L\u2019\u00e9cran de lancement lit une fois la vid\u00e9o (pi\u00e8ces et main) sans le son, puis s\u2019efface vers l\u2019application. En cas de r\u00e9duction des animations ou d\u2019erreur, le premier photogramme s\u2019affiche en image fixe."
