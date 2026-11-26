@@ -1,15 +1,15 @@
-version: 1.1.1
-versionCode: 12
+version: 1.1.2
+versionCode: 13
 files:
-  - url: tantana-1.1.1.apk
-    sha512: WlxT1m30syVvloxS9x9HeGux//o2rkqZmMy14TQpEsLOKc/IHPOXYSkRMAd0J6fDbL9KJxU3LL7bPvOy6iSR1A==
-    size: 45750787
-path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.1.1/tantana-1.1.1.apk
-url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.1.1/tantana-1.1.1.apk
-sha512: WlxT1m30syVvloxS9x9HeGux//o2rkqZmMy14TQpEsLOKc/IHPOXYSkRMAd0J6fDbL9KJxU3LL7bPvOy6iSR1A==
-sha256: 88faab626ebbd50b349df5ec29ac443c1c19c16efce93d59dbb75f4fe43ee485
-md5: bb4f40df0565bcc94f25a3f60f60bfc6
-size: 45750787
-releaseDate: '2026-11-26T06:39:33.000Z'
-notes: "The launch screen now plays the muted coin-and-hand video once, then fades into the app. Reduce Motion and playback errors still show a static first frame."
-notesFr: "L\u2019\u00e9cran de lancement lit une fois la vid\u00e9o (pi\u00e8ces et main) sans le son, puis s\u2019efface vers l\u2019application. En cas de r\u00e9duction des animations ou d\u2019erreur, le premier photogramme s\u2019affiche en image fixe."
+  - url: tantana-1.1.2.apk
+    sha512: c4F5P9wSlZsJglS//3g/9WlkR1VNc4bSED+W9VTyGqZgK5HD98BCmWbNp4a8/PBjdmpkSAhLu+AN2NbaaSgTnQ==
+    size: 44772740
+path: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.1.2/tantana-1.1.2.apk
+url: https://github.com/personal-projects-hemmy/releases/releases/download/tantana-v1.1.2/tantana-1.1.2.apk
+sha512: c4F5P9wSlZsJglS//3g/9WlkR1VNc4bSED+W9VTyGqZgK5HD98BCmWbNp4a8/PBjdmpkSAhLu+AN2NbaaSgTnQ==
+sha256: f01a4160d1597745ff08b6eb8ce29aab206cfa942a955bfb733984debb414a70
+md5: 39480cf81f46fda65946363c6c105376
+size: 44772740
+releaseDate: '2026-11-26T08:23:59.000Z'
+notes: "Search and filter transactions; export transactions to CSV; home screen widget with weekly balance and an eye to hide amounts; updates now download in the background with a notification when ready."
+notesFr: "Recherche et filtres des transactions ; export CSV des transactions ; widget d'\u00e9cran d'accueil avec solde de la semaine et un \u0153il pour masquer les montants ; les mises \u00e0 jour se t\u00e9l\u00e9chargent en arri\u00e8re-plan avec une notification quand elles sont pr\u00eates."
